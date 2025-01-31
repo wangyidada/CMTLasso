@@ -8,6 +8,6 @@ Using partially shared radiomics features to simultaneously identify isocitrate 
 Sci Rep. 2025 Jan 28;15(1):3591. doi: https://doi.org/10.1038/s41598-025-87778-y
 
 
-# Flowchart
+## Flowchart
 
-!(flowchart.jpg)
+![image](flowchart.jpg)
